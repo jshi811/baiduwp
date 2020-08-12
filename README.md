@@ -10,6 +10,7 @@ headers:{
   }
 ```
 # Thanks
+[baiduwp](https://github.com/TkzcM/baiduwp): basic codes
 
 [PanDownload](https://pandownload.com): static pages
 
