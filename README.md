@@ -1,4 +1,6 @@
 # baiduwp
+[![TravisCI build status][travisci-build-status-badge]][travisci-build-status]
+[![codecov.io][codecov-coverage-badge]][codecov-coverage] [![Backers on Open Collective][opencollective-backers-badge]](#backers) [![Sponsors on Open Collective][opencollective-sponsors-badge]](#sponsors)
 PanDownload Web, built with CloudFlare Workers
 # Demo
 No longer available due to abuse.
