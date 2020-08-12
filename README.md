@@ -1,7 +1,7 @@
 # PanJS
 PanDownload Web, built with CloudFlare Workers (based on [TkzcM/baiduwp](https://github.com/TkzcM/baiduwp))
 # Demo
-No longer available due to abuse.
+[PanJS](https://pjs.jshir.com)
 # Usage
 ```
 headers:{
