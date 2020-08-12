@@ -3,10 +3,23 @@ PanDownload Web, built with CloudFlare Workers (based on [TkzcM/baiduwp](https:/
 # Demo
 [PanJS](https://pjs.jshir.com)
 # Usage
+Getting access to the shared files:
 ```
 headers:{
     'user-agent': 'Some UA',
     'Cookie': 'BDUSS=INPUT YOUR BDUSS HERE; STOKEN=INPUT YOUR STOKEN HERE'
+  }
+```
+Verifying your qualification of downloading to avoid abuse
+```
+async function verifyidk(idk){
+	const pdk = "**INPUT THE KEY THAT YOU SET HERE**"
+	if(idk == pdk){
+        return 0
+      }
+      else {
+        return 1
+      }  
   }
 ```
 # Thanks
