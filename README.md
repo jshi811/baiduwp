@@ -1,7 +1,5 @@
-# baiduwp
-[![TravisCI build status][travisci-build-status-badge]][travisci-build-status]
-[![codecov.io][codecov-coverage-badge]][codecov-coverage] [![Backers on Open Collective][opencollective-backers-badge]](#backers) [![Sponsors on Open Collective][opencollective-sponsors-badge]](#sponsors)
-PanDownload Web, built with CloudFlare Workers
+# PanJS
+PanDownload Web, built with CloudFlare Workers (based on [TkzcM/baiduwp](https://github.com/TkzcM/baiduwp))
 # Demo
 No longer available due to abuse.
 # Usage
